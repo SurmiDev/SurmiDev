@@ -22,7 +22,7 @@ C · C++
 
 **Embedded**
 
-STM32 · ARM Cortex-M · GPIO · Timers · Interrupts · UART · SPI · I2C · ADC · PWM
+STM32 · ARM Cortex-M 
 
 **Tools**
 
