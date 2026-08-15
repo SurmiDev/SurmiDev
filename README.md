@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Surmi 👋
 
-<!--
-**SurmiDev/SurmiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Where software meets silicon — C/C++ • Embedded Systems • Microcontrollers
 
-Here are some ideas to get you started:
+I'm interested in building software close to the hardware and understanding systems from the fundamentals up.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Interests
+
+- Embedded Systems
+- Microcontrollers
+- Firmware Development
+- Embedded C
+- C / C++
+- ARM Cortex-M
+- Real-Time Systems
+- Low-Level Programming
+
+## 🛠️ Technologies
+
+**Languages**
+
+C · C++
+
+**Embedded**
+
+STM32 · ARM Cortex-M · GPIO · Timers · Interrupts · UART · SPI · I2C · ADC · PWM
+
+**Tools**
+
+Git · VS Code · STM32CubeIDE
+
+## 🚀 What I'm Building
+
+Exploring embedded systems through hands-on projects, from bare-metal programming and microcontroller peripherals to real-time systems.
+
+## 📌 Projects
+
+More projects coming soon.
+
+---
+
+*Building close to the hardware, one layer at a time.*
