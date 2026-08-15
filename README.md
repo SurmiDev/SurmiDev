@@ -9,13 +9,12 @@ I'm interested in building software close to the hardware and understanding syst
 - Embedded Systems
 - Microcontrollers
 - Firmware Development
-- Embedded C
-- C / C++
+- Embedded C / C++
 - ARM Cortex-M
 - Real-Time Systems
 - Low-Level Programming
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -29,13 +28,9 @@ STM32 · ARM Cortex-M · GPIO · Timers · Interrupts · UART · SPI · I2C · A
 
 Git · VS Code · STM32CubeIDE
 
-## 🚀 What I'm Building
+## 🚀 Projects
 
-Exploring embedded systems through hands-on projects, from bare-metal programming and microcontroller peripherals to real-time systems.
-
-## 📌 Projects
-
-More projects coming soon.
+Building and exploring embedded systems through hands-on projects, from low-level microcontroller programming to real-time systems.
 
 ---
 
